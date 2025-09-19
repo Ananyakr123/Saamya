@@ -59,7 +59,7 @@ Saamya/
 │── README.md              # Documentation
 
 ````
-
+````
 ---
 
 ## ⚙️ Installation & Setup
@@ -68,7 +68,7 @@ Saamya/
    ```bash
    git clone https://github.com/Ananyakr123/Saamya.git
    cd Saamya
-````
+   ```
 
 2. **Install Dependencies**
 
