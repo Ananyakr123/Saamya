@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🌸 Saamya – AI-Powered Youth Mental Wellness Platform
 
 Saamya is an **AI-powered mental wellness platform** designed to provide confidential, empathetic, and accessible support for youth. The project aims to reduce the stigma around mental health by offering guidance, journaling, resources, and AI-driven companionship in a safe space.  
@@ -37,11 +35,9 @@ Saamya is an **AI-powered mental wellness platform** designed to provide confide
 - GitHub Pages (Frontend)  
 - Firebase (Backend services)  
 
----
 
 ## 📂 Project Structure
 
-```
 
 Saamya/
 │── public/                # Static files (HTML, images, icons, etc.)
@@ -60,9 +56,6 @@ Saamya/
 │── package.json           # Dependencies & scripts
 │── README.md              # Documentation
 
-````
-
----
 
 ## ⚙️ Installation & Setup
 
