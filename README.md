@@ -1,4 +1,4 @@
-
+Perfect 👍 Here’s your **final README.md code** ready to paste into your project:
 
 ```markdown
 # 🌸 Saamya – AI-Powered Youth Mental Wellness Platform
@@ -146,4 +146,7 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ```
 
+---
 
+Do you also want me to **add screenshots & demo section** with Markdown image tags, so it looks more attractive on GitHub?
+```
