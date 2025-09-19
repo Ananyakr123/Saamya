@@ -142,5 +142,4 @@ VITE_FIREBASE_APP_ID=your_firebase_app_id
 
 This project is licensed under the **MIT License** – feel free to use and modify.
 
-```
-```
+
