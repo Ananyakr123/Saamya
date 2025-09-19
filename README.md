@@ -133,8 +133,14 @@ VITE_FIREBASE_APP_ID=your_firebase_app_id
 
 ## 👩‍💻 Contributors
 
-* **Ananya Kumari** – Frontend, Backend, Content
+
 * **Team Saamya** – Ideation, AI Integration, Research
+Ananya kumari- Frontend & Backend engineer 
+Anjali Arya : Frontend & Backend engineer 
+Swasti jain : AI intergrator 
+Bhumika Meravi: Content 
+Srashti Awasthi: Reasearch & Design
+Soundarya Nair: Reasearch & Design
 
 ---
 
