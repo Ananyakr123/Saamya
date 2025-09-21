@@ -10,7 +10,7 @@ export default defineConfig(({ mode }) => ({
     port: 8085,
   },
   plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
-  base: '/Saamya/',  
+    base: '/Saamya/',  
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
